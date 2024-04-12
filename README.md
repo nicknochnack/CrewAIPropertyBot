@@ -15,7 +15,7 @@ Build a crew ai crew that performs property research using Ollama.
 
 </br>
 # Other References 🔗
-<p>-<a href="https://github.com/joaomdmoura/crewAI)">CrewAI</a>:documentation for the framework.</p>
+<p>-<a href="https://github.com/joaomdmoura/crewAI">CrewAI</a>:documentation for the framework.</p>
 
 # Who, When, Why?
 
